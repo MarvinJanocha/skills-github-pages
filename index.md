@@ -1,15 +1,21 @@
 ---
 layout: home
-title: Welcome
-nav_order: 1
+title: Welcome!
 ---
 
-# Welcome to TOREPLACE
+# Welcome to Your IT Support Journey
 
-This is the homepage for TOREPLACE — your source for IT support and resources.
+![A friendly computer character helping a user](https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80)
 
-- [About](about.md)
-- [IT Journey](it-journey.md)
-- [Contact](contact.md)
+**Ready to make technology easy?**  
+We're here to guide you, step by step—no matter your experience level.
 
-TOREPLACE
+- Personalized advice
+- Clear, jargon-free guides
+- Friendly, patient support
+
+> “I never thought IT could be this approachable!” – Happy User
+
+[Get Started](it-journey/)
+
+---

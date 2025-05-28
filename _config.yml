@@ -1,3 +1,15 @@
-title: TOREPLACE
-description: TOREPLACE
-theme: minima
+title: Your IT Support Journey
+description: Friendly, modern help for your digital life.
+theme: bulma-clean-theme
+permalink: pretty
+navbar:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: IT Journey
+    url: /it-journey/
+  - title: Contact
+    url: /contact/
+footer:
+  text: "© 2025 Your IT Support Journey. All rights reserved."

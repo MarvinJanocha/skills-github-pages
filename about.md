@@ -1,13 +1,15 @@
 ---
 layout: page
-title: About
-nav_order: 2
+title: About Us
 ---
 
-# About
+# About Us
 
-TOREPLACE
+At Your IT Support Journey, we believe everyone deserves to feel confident using technology.  
+Our team is passionate about making computers, phones, and the internet less intimidating—no matter your starting point.
 
-This website provides information and support for those seeking IT help and guidance. Whether you're just getting started or looking for answers to specific questions, we're here for you.
+- **Patient, friendly experts**
+- **Clear explanations**
+- **Step-by-step help**
 
-TOREPLACE
+We’re here to support you every step of the way!
