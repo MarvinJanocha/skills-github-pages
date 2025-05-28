@@ -1,8 +1,15 @@
 ---
-title: Welcome to my Testsite
+layout: home
+title: Welcome
+nav_order: 1
 ---
 
-# Test
-real tests are testing me
+# Welcome to TOREPLACE
 
-Wow
+This is the homepage for TOREPLACE — your source for IT support and resources.
+
+- [About](about.md)
+- [IT Journey](it-journey.md)
+- [Contact](contact.md)
+
+TOREPLACE
