@@ -1,6 +1,6 @@
 title: Your IT Support Journey
 description: Friendly, modern help for your digital life.
-theme: bulma-clean-theme
+theme: minimal-mistakes-jekyll
 permalink: pretty
 navbar:
   - title: Home
